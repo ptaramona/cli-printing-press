@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.35.3](https://github.com/mvanhorn/cli-printing-press/compare/v4.35.2...v4.35.3) (2026-11-04)
+
+
+### Bug Fixes
+
+* **openapi:** preserve after filters during cursor pagination ([#5332](https://github.com/mvanhorn/cli-printing-press/issues/5332)) ([38b74e0](https://github.com/mvanhorn/cli-printing-press/commit/38b74e09b2ea4c6df07a029df263803efe77b92c))
+
 ## [4.35.2](https://github.com/mvanhorn/cli-printing-press/compare/v4.35.1...v4.35.2) (2026-11-03)
 
 
